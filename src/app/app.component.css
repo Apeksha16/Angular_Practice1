@@ -1,0 +1,32 @@
+.fill-hght {
+    height: calc(100vh - 64px);
+    background-color: rgb(196, 207, 216);
+    width: 100%;
+}
+
+.txt-bg {
+    font-size: 40px;
+    font-family: monospace;
+}
+
+.add-popup {
+    /* width: 60%; */
+    height: 40%;
+    padding: 20px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.m-tb-10 {
+    margin: 10px 0px 10px 0px;
+}
+
+.card-hght {
+    height: calc(100vh - 104px);
+}
